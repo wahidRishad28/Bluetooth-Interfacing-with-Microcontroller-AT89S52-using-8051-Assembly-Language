@@ -31,7 +31,7 @@ LEDs, Resistors, Capacitors, Jumper Wires
 🖥 Simulation
 Circuit designed and verified using Proteus simulation software.
 
-🚀 How it Works
+How it Works-
 After initialization, the system prompts users via LCD to select a mode.
 
 User commands are sent through Bluetooth, and the microcontroller processes them accordingly.
